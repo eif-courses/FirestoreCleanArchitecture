@@ -10,7 +10,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "ro.alexmamo.firestorecleanarchitecture"
+        applicationId "eif.viko.books_feature"
         minSdk 21
         targetSdk 33
         versionCode 1
@@ -43,7 +43,7 @@ android {
             excludes += '/META-INF/{AL2.0,LGPL2.1}'
         }
     }
-    namespace 'ro.alexmamo.firestorecleanarchitecture'
+    namespace 'eif.viko.books_feature'
 }
 
 dependencies {

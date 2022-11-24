@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448995268453",
+    "project_id": "stepbystepfirestore",
+    "storage_bucket": "stepbystepfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448995268453:android:f5c1430b98e19871b0b38c",
+        "android_client_info": {
+          "package_name": "eif.viko.books_feature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448995268453-4djic8derk5h5gut5ev6t235gfc5l7gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCErt2JDGJPAKx7cgNxMqnJUtu5aVnE58s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448995268453-4djic8derk5h5gut5ev6t235gfc5l7gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
